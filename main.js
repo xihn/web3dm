@@ -144,4 +144,6 @@ function initGUI( layers ) {
 
   }
 
+  gui.close();
+
 }
